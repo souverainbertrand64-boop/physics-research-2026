@@ -39,7 +39,7 @@ This repository contains **24 Python scripts** that reproduce all numerical resu
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/[Bertrand Jarry]/quantum-gravity-discrete-spacetime.git
+git clone https://github.com/souverainbertrand64-boop
 cd quantum-gravity-discrete-spacetime
 
 # Install dependencies
