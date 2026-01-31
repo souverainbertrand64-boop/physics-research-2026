@@ -213,12 +213,12 @@ Tested with:
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{[votrenom]2026emergent,
+@article{[Jarry]2026emergent,
   title={Emergent Quantum Mechanics, Special Relativity, and Induced Gravity from Discrete Spacetime},
-  author={[Votre Nom]},
+  author={[Bertrand Jarry]},
   journal={viXra},
   year={2026},
-  url={https://github.com/[VOTRE-USERNAME]/quantum-gravity-discrete-spacetime}
+  url={https://github.com/souverainbertrand64-boop}
 }
 ```
 
@@ -252,7 +252,7 @@ Pull requests for bug fixes are welcome.
 
 **Author:** [Bertrand Jarry]  
 **Email:** [souverainbertrand64@gmail.com]  
-**Repository:** https://github.com/[Bertrand Jarry]/quantum-gravity-discrete-spacetime  
+**Repository:**  https://github.com/souverainbertrand64-boop 
 **Manuscript:** viXra preprint (link to be added)
 
 ---
@@ -261,7 +261,7 @@ Pull requests for bug fixes are welcome.
 
 - Numerical computations performed using NumPy, SciPy, Matplotlib, and SymPy
 - Inspired by Sakharov (1967) induced gravity approach
-- Code development assisted by Claude (Anthropic)
+
 
 ---
 
