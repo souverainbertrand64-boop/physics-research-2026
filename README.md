@@ -7,7 +7,7 @@ Complete Python implementation of all numerical results and figures from the man
 
 > **"Emergent Quantum Mechanics, Special Relativity, and Induced Gravity from Discrete Spacetime"**  
 > [Bertrand Jarry], 2026  
-> viXra preprint (to be published)
+> viXra : https://vixra.org/abs/2602.0001
 
 ---
 
@@ -213,12 +213,12 @@ Tested with:
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{[Jarry]2026emergent,
+@article{[jarry]2026emergent,
   title={Emergent Quantum Mechanics, Special Relativity, and Induced Gravity from Discrete Spacetime},
   author={[Bertrand Jarry]},
   journal={viXra},
   year={2026},
-  url={https://github.com/souverainbertrand64-boop}
+  url={https://vixra.org/abs/2602.0001}
 }
 ```
 
