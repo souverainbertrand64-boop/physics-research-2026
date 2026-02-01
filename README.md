@@ -253,7 +253,7 @@ Pull requests for bug fixes are welcome.
 **Author:** [Bertrand Jarry]  
 **Email:** [souverainbertrand64@gmail.com]  
 **Repository:**  https://github.com/souverainbertrand64-boop 
-**Manuscript:** viXra preprint (link to be added)
+**Manuscript:** viXra preprint (https://vixra.org/abs/2602.0001)
 
 ---
 
